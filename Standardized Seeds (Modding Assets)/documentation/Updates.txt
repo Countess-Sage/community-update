@@ -1,0 +1,40 @@
+Updates:
+
+- Visit Mount Vapius Seeds (updated files)
+	- Moon Pods Changed
+
+- Grains Overhulled Seeds (updated files)
+	- Sorghum Changed
+
+- Bonster Crops Combined Seeds (updated files)
+	- Black Currant Sapling Changed
+
+- Garden Variety Mixed (deleted)
+	- Merged into Atelier Goods Expansion
+
+- Atelier Goods Forager Seeds & Saplings (deleted)
+	- Changed to Atelier Goods Expansion
+
+- Atelier Goods Expansion Seeds & Saplings (new files)
+	- Seeds:
+		- Replaced Avalunae Seed with Alchemist's Flower Seeds
+		- Replaced Faerie Puffball Seed with Alchemist's Herb Seeds
+		- Replaced Frosted Flame Seed with Garden Variety Fruit Seeds
+		- Replaced Mandrake Seed with Garden Variety Veggie Seeds
+		- Replaced Moon Maiden Seed with Wild Raspberry Starter
+		- Replaced Pixie's Breath Seed with Wild Strawberry Starter
+		- Removed Yarrow Seed
+	- Saplings:
+		- Removed Angel Geranium Starter
+		- Removed Blue Chiffon Starter
+		- Removed Brûlée Sapling
+		- Removed Buttercream Sapling
+		- Removed Creeping Daisy Starter
+		- Removed Dawn Lily Starter
+		- Removed Dusk Lily Starter
+		- Removed Gelato Starter
+		- Removed Meadow Violet Starter
+		- Removed Mysteria Starter
+		- Removed Pavlova Sapling
+		- Removed Quartz Primrose Starter
+		- Removed Souffle Sapling
