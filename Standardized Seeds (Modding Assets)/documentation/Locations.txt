@@ -35,3 +35,21 @@ Locations:
 			- (128,0) -> (48,0)
 		- Wild Cacao Sapling
 			- (144,0) -> (80,0)
+
+- Stardew Valley Expanded Seeds:
+	- Seeds:
+		- Butternut Squash Seeds
+			- (128,0) -> (0,0)
+		- Cucumber Seeds
+			- (144,0) -> (0,0)
+		- Gold Carrot Seeds
+			- (0,16) -> (0,0)
+		- Sweet Potato Seeds
+			- (16,16) -> (0,0)
+	- Saplings:
+		- Persimmon Sapling
+			- (0,0) -> (0,0)
+		- Pear Sapling
+			- (0,0) -> (0,0)
+		- Nectarine Sapling
+			- (0,0) -> (0,0)

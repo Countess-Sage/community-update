@@ -38,3 +38,16 @@ Updates:
 		- Removed Pavlova Sapling
 		- Removed Quartz Primrose Starter
 		- Removed Souffle Sapling
+
+- Stardew Valley Expanded Seeds (updated files)
+	- Seeds:
+		- Added Butternut Squash Seeds
+		- Added Cucumber Seeds
+		- Added Gold Carrot Seeds
+		- Added Sweet Potato Seeds
+
+- Stardew Valley Expanded Saplings (new file)
+	-Saplings:
+		- Added Persimmon Sapling
+		- Added Pear Sapling
+		- Added Nectarine Sapling
