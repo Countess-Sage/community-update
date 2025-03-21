@@ -50,6 +50,6 @@ Locations:
 		- Persimmon Sapling
 			- (0,0) -> (0,0)
 		- Pear Sapling
-			- (0,0) -> (0,0)
+			- (16,0) -> (0,0)
 		- Nectarine Sapling
-			- (0,0) -> (0,0)
+			- (32,0) -> (0,0)
