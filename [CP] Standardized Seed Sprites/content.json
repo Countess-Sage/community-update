@@ -1,353 +1,322 @@
 {
     "Format": "2.0.0",
-    "ConfigSchema": {
-	// MAIN SETTINGS
-        "Seed Packet Variant":
-        {
-            "AllowValues": "(1) Sensible Sleeves, (2) Seasonal Sleeves, (3) Sensible Satchels, (4) Seasonal Satchels, (5) Sensible Stashes, (6) Seasonal Stashes",
-            "Default": "(1) Sensible Sleeves"
-        },
-        "Sapling Sack Color":
-        {
-            "AllowValues": "(1) Cloud, (2) Cream, (3) Chest, (4) Crypt",
-            "Default": "(2) Cream"
-        },
-        "= Disable Entire Mod":
-        {
-            "AllowValues": "true, false",
-            "Default": "false",
-            "Section": "Global Toggles"
-        },
-        "Seed Sprites":
-        {
-            "AllowValues": "Enabled, Disabled",
-            "Default": "Enabled",
-            "Section": "Global Toggles"
-        },
-        "Sapling Sprites":
-        {
-            "AllowValues": "Enabled, Disabled",
-            "Default": "Enabled",
-            "Section": "Global Toggles"
-        },
-        "Bush Sprites":
-        {
-            "AllowValues": "Enabled, Disabled",
-            "Default": "Enabled",
-            "Section": "Global Toggles"
-        },
-        "Trellis Sprites":
-        {
-            "AllowValues": "Enabled, Disabled",
-            "Default": "Enabled",
-            "Section": "Global Toggles"
-        },
-        "Tea Sapling Sprites":
-        {
-            "AllowValues": "Enabled, Disabled",
-            "Default": "Enabled",
-            "Section": "Global Toggles"
-        },
-        "Mixed Seed Sprites":
-        {
-            "AllowValues": "Enabled, Disabled",
-            "Default": "Enabled",
-            "Section": "Global Toggles"
-        },
-	// MOD SECTION TOGGLES
-		"(A) Vanilla": 
-		{
+	"ConfigSchema": {
+		// MAIN SETTINGS
+		"Seed Packet Variant": {
+			"AllowValues": "(1) Sensible Sleeves, (2) Seasonal Sleeves, (3) Sensible Satchels, (4) Seasonal Satchels, (5) Sensible Stashes, (6) Seasonal Stashes",
+			"Default": "(1) Sensible Sleeves"
+		},
+		"Sapling Sack Color": {
+			"AllowValues": "(1) Cloud, (2) Cream, (3) Chest, (4) Crypt",
+			"Default": "(2) Cream"
+		},
+		"= Disable Entire Mod": {
+			"AllowValues": "true, false",
+			"Default": "false",
+			"Section": "Global Toggles"
+		},
+		"Seed Sprites": {
+			"AllowValues": "Enabled, Disabled",
+			"Default": "Enabled",
+			"Section": "Global Toggles"
+		},
+		"Sapling Sprites": {
+			"AllowValues": "Enabled, Disabled",
+			"Default": "Enabled",
+			"Section": "Global Toggles"
+		},
+		"Bush Sprites": {
+			"AllowValues": "Enabled, Disabled",
+			"Default": "Enabled",
+			"Section": "Global Toggles"
+		},
+		"Trellis Sprites": {
+			"AllowValues": "Enabled, Disabled",
+			"Default": "Enabled",
+			"Section": "Global Toggles"
+		},
+		"Tea Sapling Sprites": {
+			"AllowValues": "Enabled, Disabled",
+			"Default": "Enabled",
+			"Section": "Global Toggles"
+		},
+		"Mixed Seed Sprites": {
+			"AllowValues": "Enabled, Disabled",
+			"Default": "Enabled",
+			"Section": "Global Toggles"
+		},
+		// MOD SECTION TOGGLES
+		"Vanilla": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(B) Stardew Valley Expanded": 
-		{
+		"Stardew Valley Expanded": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(C) East Scarp": 
-		{
+		"East Scarp": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(D) Visit Mount Vapius": 
-		{
+		"Visit Mount Vapius": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(E) Serene Meadow": 
-		{
+		"Serene Meadow": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(F) Growable Forage": 
-		{
+		"Growable Forage": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(G) Cornucopia Crops": 
-		{
+		"Cornucopia Crops": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(H) Cornucopia Herbs": 
-		{
+		"Cornucopia Herbs": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(I) Cornucopia Flowers": 
-		{
+		"Cornucopia Flowers": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(J) Ilucie Winter Crops": 
-		{
+		"Ilucie Winter Crops": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(K) Flower Garden 2": 
-		{
+		"Flower Garden 2": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(L) Grapes of Ferngill": 
-		{
+		"Grapes of Ferngill": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(M) Atelier Goods Forager": 
-		{
+		"Atelier Goods Expansion": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(N) Garden Variety Mixed Seeds": 
-		{
+		"Forage of Ferngill": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(O) Forage of Ferngill": 
-		{
+		"Grains Overhull": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(P) Grains Overhull": 
-		{
+		"Bonster Crops Combined": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(Q) Bonster Crops Combined": 
-		{
+		"Uncle Iroh Tea": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(R) Uncle Iroh Tea": 
-		{
+		"Polyamory Sweet": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(S) Polyamory Sweet": 
-		{
+		"Ore Crops": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(T) Ore Crops": 
-		{
+		"Tahla Crops": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(U) Tahla Crops": 
-		{
+		"Mildkewy Food Starter": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(V) Mildkewy Food Starter": 
-		{
+		"Tobacco and Hemp": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(W) Tobacco and Hemp": 
-		{
+		"Ridgeside Village": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(X) Ridgeside Village": 
-		{
+		"Adventurer Guild Expanded": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(Y) Adventurer Guild Expanded": 
-		{
+		"Distant Lands": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(Z) Distant Lands": 
-		{
+		"Magical Crops": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		},
-		"(A²) Magical Crops": 
-		{
+		"Passerby Cemetery": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Section": "Mod Section Toggles"
 		}
     },
 	"Changes": [
-		// SECTION A - VANILLA
+		// VANILLA
 		{
 			"Action": "Include",
 			"FromFile": "Data/Vanilla.json"
 		},
-		// SECTION B - STARDEW VALLEY EXPANDED
+		// STARDEW VALLEY EXPANDED
 		{
 			"Action": "Include",
 			"FromFile": "Data/Stardew Valley Expanded.json"
 		},
-		// SECTION C - EAST SCARP
+		// EAST SCARP
 		{
 			"Action": "Include",
 			"FromFile": "Data/East Scarp.json"
 		},
-		// SECTION D - VISIT MOUNT VAPIUS
+		// VISIT MOUNT VAPIUS
 		{
 			"Action": "Include",
 			"FromFile": "Data/Visit Mount Vapius.json"
 		},
-		// SECTION E - SERENE MEADOW
+		// SERENE MEADOW
 		{
 			"Action": "Include",
 			"FromFile": "Data/Serene Meadow.json"
 		},
-		// SECTION F - GROWABLE FORAGE
+		// GROWABLE FORAGE
 		{
 			"Action": "Include",
 			"FromFile": "Data/Growable Forage.json"
 		},
-		// SECTION G - CORNUCOPIA CROPS
+		// CORNUCOPIA CROPS
 		{
 			"Action": "Include",
 			"FromFile": "Data/Cornacopia Crops.json"
 		},
-		// SECTION H - CORNUCOPIA HERBS
+		// CORNUCOPIA HERBS
 		{
 			"Action": "Include",
 			"FromFile": "Data/Cornacopia Herbs.json"
 		},
-		// SECTION I - CORNUCOPIA FLOWERS
+		// CORNUCOPIA FLOWERS
 		{
 			"Action": "Include",
 			"FromFile": "Data/Cornacopia Flowers.json"
 		},
-		// SECTION J - ILUCIE WINTER CROPS
+		// ILUCIE WINTER CROPS
 		{
 			"Action": "Include",
 			"FromFile": "Data/Ilucie's Winter Crops.json"
 		},
-		// SECTION K - FLOWER GARDEN 2
+		// FLOWER GARDEN 2
 		{
 			"Action": "Include",
 			"FromFile": "Data/Flower Garden 2.json"
 		},
-		// SECTION L - GRAPES OF FERNGILL
+		// GRAPES OF FERNGILL
 		{
 			"Action": "Include",
 			"FromFile": "Data/Grapes of Ferngill.json"
 		},
-		// SECTION M - ATELIER GOODS EXPANSION
+		// ATELIER GOODS EXPANSION
 		{
 			"Action": "Include",
 			"FromFile": "Data/Atelier Goods Expansion.json"
 		},
-		// SECTION O - FORAGE OF FERNGILL
+		// FORAGE OF FERNGILL
 		{
 			"Action": "Include",
 			"FromFile": "Data/Forage of Ferngill.json"
 		},
-		// SECTION P - GRAINS OVERHULL
+		// GRAINS OVERHULL
 		{
 			"Action": "Include",
 			"FromFile": "Data/Grains Overhull.json"
 		},
-		// SECTION Q - BONSTER CROPS COMBINED
+		// BONSTER CROPS COMBINED
 		{
 			"Action": "Include",
 			"FromFile": "Data/Bonster Crops Combined.json"
 		},
-		// SECTION R - UNCLE IROH TEA
+		// UNCLE IROH TEA
 		{
 			"Action": "Include",
 			"FromFile": "Data/Uncle Iroh Tea.json"
 		},
-		// SECTION S - POLYAMORY SWEET
+		// POLYAMORY SWEET
 		{
 			"Action": "Include",
 			"FromFile": "Data/Polyamory Sweet.json"
 		},
-		// SECTION T - ORE CROPS
+		// ORE CROPS
 		{
 			"Action": "Include",
 			"FromFile": "Data/Ore Crops.json"
 		},
-		// SECTION U - TAHLA CROPS
+		// TAHLA CROPS
 		{
 			"Action": "Include",
 			"FromFile": "Data/Tahla Crops.json"
 		},
-		// SECTION V - MILDKEWY FOOD STARTER
+		// MILDKEWY FOOD STARTER
 		{
 			"Action": "Include",
 			"FromFile": "Data/Mildkewy Food Started.json"
 		},
-		// SECTION W - TOBACCO AND HEMP
+		// TOBACCO AND HEMP
 		{
 			"Action": "Include",
 			"FromFile": "Data/Tobacco and Hemp.json"
 		},
-		// SECTION X - RIDGESIDE VILLAGE
+		// RIDGESIDE VILLAGE
 		{
 			"Action": "Include",
 			"FromFile": "Data/Ridgeside Village.json"
 		},
-		// SECTION Y - ADVNTURER GUILD EXPANDED
+		// ADVNTURER GUILD EXPANDED
 		{
 			"Action": "Include",
 			"FromFile": "Data/Adventurer Guild Expanded.json"
 		},
-		// SECTION Z - DISTANT LANDS
+		// DISTANT LANDS
 		{
 			"Action": "Include",
 			"FromFile": "Data/Distant Lands.json"
 		},
-		// SECTION A² - MAGICAL CROPS
+		// MAGICAL CROPS
 		{
 			"Action": "Include",
 			"FromFile": "Data/Magical Crops.json"
+		},
+		// PASSERBY CEMETERY
+		{
+			"Action": "Include",
+			"FromFile": "Data/Passerby Cemetery.json"
 		}
 	]
 }
