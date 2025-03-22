@@ -1,0 +1,59 @@
+Hello there! You wanna add support for a mod without editing the content file into a 9k line file? Well you've come to the right place.
+
+- To start create a new .json file it the folder labeled "data"
+- Name it as the mod you're adding compatibility with 
+	ex: 'Visit Mount Valpius.json' is for compatibility with the mod of the same name
+- In the newly created file copy the following:
+	{
+		"Changes": [
+			
+		]
+	}
+
+- Add the calls that content patcher needs to handle:
+	ex:
+
+	{
+		"Action": "EditImage",
+		"Target": "mod.uniqueID",	//This is where you should put the mods ID. You can find it in their manifest file.
+		"FromFile": "assets/seeds/{{Seed Packet Variant}}/lookieatme.png",	//No, don't actually put 'lookieatme.jpg', use the name of the spritesheet you're adding.
+		"FromArea": {
+			"X": 0,
+			"Y": 0,
+			"Width": 16,
+			"Height": 16
+		},
+		"ToArea": {
+			"X": 0,
+			"Y": 0,
+			"Width": 16,
+			"Height": 16
+		},
+		"Priority": "Late",
+		"When": {					//
+			"= Disable Entire Mod": "false",	//I won't go into detail here.
+			"Seed Sprites": "Enabled",		//It's simply for the mod menu config
+			"(P) Grains Overhull": "true"		//
+		}
+	},
+
+- After you've gotten all the calls listed you'll wanna save it and go to the content file aptly named "content.json"
+- All you have to do here is go to the end of the file and add the following
+	{
+		"Action": "Include",
+		"FromFile": "Data/weeeeeeee.json"		//Again, don't use 'weeeeeeee.json', use your file name that you just created
+	},
+
+- Just make sure it looks like this:
+				{
+					//Other compatabilities
+				},
+				{
+					"Action": "Include",
+					"FromFile": "Data/weeeeeeee.json"	//Do NOT use 'weeeeeeee.json'
+				}
+			}
+		]
+	}
+
+- Congrats! Now save the file and test it in your game.
