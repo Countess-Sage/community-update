@@ -1,0 +1,2933 @@
+{
+    "Changes": [
+        // (Q) Arctic Raspberry Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Artichoke Thistle Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Benne Sesame Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Black Bean Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Blackcurrant Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Blue Corn Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Camas Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Candy Roaster Squash Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Cardamom Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Chayote Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Chinese Artichoke Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Cloudberry Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Cowpea Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Cranberry Bean Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Four Corner Potato Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Garnet Sweet Potato Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Green Chili Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Hardy Kiwi Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Hopniss Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Incan Ground Cherry Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Julep Mint Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Kutjera Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Lingonberry Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Long Island Cheese Pumpkin Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Maypop Passion Fruit Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Mung Bean Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Nasturtium Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Oat Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Oca Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Oysternut Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 128,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Peppercorn Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Prickly Pear Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Red Carrot Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 128,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Red Currant Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Rose Hip Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Roselle Hibiscus Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Sacred Water Lotus Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 128,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Salal Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 128,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Salsify Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Samphire Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 128,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Scotch Bonnet Pepper Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Sea Buckthorn Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Skirret Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Sunchoke Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Sweet Basil Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Sweet Granadilla Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Tiger Nut Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Tomatillo Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Ube Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) White Alpine Strawberry Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) White Currant Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Wild Rice Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Yacon Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Yellow Onion Seed
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Abiu Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 224,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Acerola Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 224,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Achachairú Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 224,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Alphonso Mango Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 240,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) American Persimmon Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 240,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Black Madeira Fig Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 240,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Black Persimmon Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 240,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Black Sapote Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 240,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Blood Orange Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 176,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Bunya Bunya Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 256,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Canistel Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 256,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Chaunsa Mango Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 256,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Cherimoya Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 176,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Chestnut Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 176,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Chilean Guava Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 256,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Chocolate Persimmon Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 256,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Clove Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 176,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Cupuaçu Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 272,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Date Palm Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 176,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Dragon Eye Longan Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 272,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Guanabana Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 272,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Hass Avocado Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 272,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Honey Fig Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 272,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Ice Cream Bean Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Jackfruit Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Jamaican Cherry Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Jujube Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Kru Banana Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Langsat Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Lily Pilly Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Loquat Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Macadamia Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Mahachanok Mango Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Mamey Sapote Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Mangosteen Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Mayhaw Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Medlar Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Monkey Pot Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Palmyra Palm Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Pandan Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Pawpaw Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Peanut Butter Fruit Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Pedalai Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Pistachio Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Pitogo Banana Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 320,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Plantain Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Poshte Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Pulasan Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Purple Pluot Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Quince Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Red Banana Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Red Jaboticaba Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Red Walnut Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Rollinia Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 352,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Ruby Guava Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 352,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Rumberry Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 352,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Salak Palm Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 352,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Sapodilla Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 352,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Saskatoon Berry Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 368,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Shipova Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 368,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Stone Pine Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 224,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Sunrise Papaya Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 368,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Tamarind Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 224,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Tiger Fig Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 368,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Wattleseed Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 368,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) White Sapote Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 384,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Ya Li Pear Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 384,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        },
+        // (Q) Yellow Pitahaya Sapling
+        {
+            "Action": "EditImage",
+            "Target": "BFV.CropsCombined/Objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-bonster-crops-combined.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 384,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(Q) Bonster Crops Combined": "true"
+            }
+        }
+
+    ]
+}

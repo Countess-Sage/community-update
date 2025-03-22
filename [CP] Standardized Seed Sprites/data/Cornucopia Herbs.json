@@ -1,0 +1,629 @@
+{
+    "Changes": [
+        // (H) Aloe Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Bay Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Catnip Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Chive Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Coriander Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Dill Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Fennel Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Fenugreek Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Lemongrass Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Licorice Root Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Marjoram Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Mint Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Oregano Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Parsley Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Perilla Leaves Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Rosemary Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Sage Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Tarragon Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Thyme Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 160,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Turmeric Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Wormwood Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 192,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Camphor Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Cinnamon Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Eucalyptus Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Melaleuca Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 352,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        },
+        // (H) Nutmeg Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-herbs.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(H) Cornucopia Herbs": "true"
+            }
+        }
+    ]
+}

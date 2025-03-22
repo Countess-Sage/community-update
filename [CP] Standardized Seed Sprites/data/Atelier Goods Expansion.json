@@ -1,0 +1,821 @@
+{
+    "Changes": [
+        // (M) Alchemist's Flower Seeds
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 384,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Alchemist's Herb Seeds
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 384,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Calico Vanilla Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Chicken of the Woods Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Cindersap Cilantro Seeds
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Cindersap Sage Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Forest Chamomile Seeds
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Forest Lavender Seeds
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Garden Variety Fruit Seeds
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 384,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Garden Variety Veggie Seeds
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 160,
+                "Y": 384,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Gem Isle Jasmine Seeds
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Hardy Rosemary Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Honey Fungus Mushroom Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Lemon Thyme Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Marsh Mallow Seeds
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Meringue Mushroom Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Milky White Mushroom Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 160,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Pelican Mint Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 192,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Sweet Basil Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Wheatberry Mushroom Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Wild Raspberry Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 160,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Wild Red Onion Seed
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 224,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+
+        // (M) Wild Strawberry Starter
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 192,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Wormwood Seeds
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-atelier-goods.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 224,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Calico Pistachio Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-atelier-goods-forager.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Elder Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-atelier-goods-forager.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Fern Isle Olive Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-atelier-goods-forager.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Gem Sea Cashew Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-atelier-goods-forager.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Grampleton Walnut Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-atelier-goods-forager.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Petite Lemon Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-atelier-goods-forager.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Petite Lime Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-atelier-goods-forager.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 224,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) St Cannoli Almond Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-atelier-goods-forager.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Star Anise Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-atelier-goods-forager.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        },
+        // (M) Wild Cacao Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Wildflour.AtelierGoods\\Objects, Mods\\Wildflour.AtelierGoods\\Objects_VT",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-atelier-goods-forager.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(M) Atelier Goods Forager": "true"
+            }
+        }
+    ]
+}

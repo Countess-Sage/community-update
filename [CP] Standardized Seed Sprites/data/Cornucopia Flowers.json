@@ -1,0 +1,1167 @@
+{
+    "Changes": [
+        // (I) Bee Balm Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Blue Mist Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Bluebonnet Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Buttercup Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Calico Cactus Bush Planter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Camellia Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Carnation Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 224,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Chamomile Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Chrysanthemum Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Clary Sage Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Clematis Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Dahlia Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Daisy Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Fairy Duster Pod
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Freesia Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Geranium Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Honeysuckle Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Hyacinth Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 128,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Hydrangea Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Iris Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Larkspur Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Lavender Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Lilac Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Lily Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Lotus Root
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Lupine Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Morning Glory Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Orchid Bulb
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Pansy Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 224,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Peony Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Petunia Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Pink Cat Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Pitcher Plant Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Purple Coneflower Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Rafflesia Cutting
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Rose Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Rose Fall Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Rose Prismatic Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Rose Spring Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Rose Summer Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Rose Winter Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Violet Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Wolfsbane Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Hibiscus Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Jasmine Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Magnolia Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Wisteria Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        },
+        // (I) Ylang Ylang Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreFlowers/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-flowers.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(I) Cornucopia Flowers": "true"
+            }
+        }
+    ]
+}

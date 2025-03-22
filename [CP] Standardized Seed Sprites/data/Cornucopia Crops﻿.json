@@ -1,0 +1,1991 @@
+{
+    "Changes": [
+        // (G) Adzuki Bean Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Agave Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Asparagus Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Bamboo Shoot
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Barley Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Basil Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Bell Pepper Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Black Bean Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Black Currant Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Blue Agave Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Buckwheat Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Butternut Squash Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Cabbage Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Canary Melon
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Cantaloupe Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Cassava Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Celery Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Chicken of the Woods Bush Planter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Chickpea Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Cotton Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Cucumber Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Daikon Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Durum Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Elderberry Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Ginseng Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Gooseberry Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Green Peas Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Groundcherry Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Habanero Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Honeydew Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Jalapeño Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Juniper Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Kidney Bean Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Kiwi Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Lettuce Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Navy Bean Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Oat Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Okra Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Olive Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Onion Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Passion Fruit Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Peanut Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Peppercorn Bush Planter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Pinto Bean Starter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Trellis Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Quinoa Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Raspberry Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Red Onion Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 144,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Shallot Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Shiitake Bush Planter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Spinach Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Sugar Beet Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Sugarcane Shoot
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Sweet Potato Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Turnip Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 112,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Vanilla Bush Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 208,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Wasabi Tuber
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Watermelon Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) White Grape Bush Planter
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 64,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "Bush Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Zucchini Seed
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/seeds/{{Seed Packet Variant}}/seeds-cornucopia-crops.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 80,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 96,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Almond Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Avocado Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Breadfruit Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Cashew Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Cocoa Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Dragon Fruit Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Durian Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Fig Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Grapefruit Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Lemon Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Lime Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 304,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Lychee Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Nectarine Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Papaya Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Pear Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Pecan Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Persimmon Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 288,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Pistachio Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 272,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Plantain Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 240,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Pomelo Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 144,
+                "Y": 16,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 336,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Ume Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 208,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Walnut Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 144,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        },
+        // (G) Yuzu Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Cornucopia.MoreCrops/objects",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-cornucopia-crops.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 176,
+                "Y": 304,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Sapling Sprites": "Enabled",
+                "(G) Cornucopia Crops": "true"
+            }
+        }
+    ]
+}

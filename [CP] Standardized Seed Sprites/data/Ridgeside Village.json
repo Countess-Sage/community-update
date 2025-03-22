@@ -1,0 +1,196 @@
+{
+    "Changes": [
+        // (X) Cherry Pluot Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Rafseazz.RSVCP\\Objects\\FruitTreeSaplings",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ridgeside-village.png",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(X) Ridgeside Village": "true"
+            }
+        },
+        // (X) Desert Tangelo Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Rafseazz.RSVCP\\Objects\\FruitTreeSaplings",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ridgeside-village.png",
+            "FromArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(X) Ridgeside Village": "true"
+            }
+        },
+        // (X) Ember Blood Lime Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Rafseazz.RSVCP\\Objects\\FruitTreeSaplings",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ridgeside-village.png",
+            "FromArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 32,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(X) Ridgeside Village": "true"
+            }
+        },
+        // (X) Highland Jostaberry Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Rafseazz.RSVCP\\Objects\\FruitTreeSaplings",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ridgeside-village.png",
+            "FromArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 48,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(X) Ridgeside Village": "true"
+            }
+        },
+        // (X) Mountain Plumcot Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Rafseazz.RSVCP\\Objects\\FruitTreeSaplings",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ridgeside-village.png",
+            "FromArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 64,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(X) Ridgeside Village": "true"
+            }
+        },
+        // (X) Northern Limequat Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Rafseazz.RSVCP\\Objects\\FruitTreeSaplings",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ridgeside-village.png",
+            "FromArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 80,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(X) Ridgeside Village": "true"
+            }
+        },
+        // (X) Paradise Rangpur Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Rafseazz.RSVCP\\Objects\\FruitTreeSaplings",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ridgeside-village.png",
+            "FromArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 96,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(X) Ridgeside Village": "true"
+            }
+        },
+        // (X) Tropi Ugli Fruit Sapling
+        {
+            "Action": "EditImage",
+            "Target": "Mods\\Rafseazz.RSVCP\\Objects\\FruitTreeSaplings",
+            "FromFile": "assets/saplings/{{Sapling Sack Color}}/saplings-ridgeside-village.png",
+            "FromArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "ToArea": {
+                "X": 112,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            },
+            "Priority": "Late",
+            "When": {
+                "= Disable Entire Mod": "false",
+                "Seed Sprites": "Enabled",
+                "(X) Ridgeside Village": "true"
+            }
+        }
+    ]
+}
